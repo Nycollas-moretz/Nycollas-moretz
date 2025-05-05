@@ -16,10 +16,24 @@
 
 ## 🚀 About Me
 
-🎓 I'm a *Computer Engineering student at UFSC* and a passionate *Full-stack Developer* turning ideas into impactful digital solutions.  
-💡 I believe that *technology + purpose = change*, and I aim to merge clean code with thoughtful design.
+🎓 I'm a *Computer Engineering student at UFSC*, passionate about *Full-stack Development* and creating impactful digital experiences.  
+💡 I believe that *technology + purpose = change*, and I aim to merge clean code with thoughtful design.  
+🧠 Currently working at **LabTEC (UFSC)** on a research and extension project developing educational experiences using **Augmented Reality (AR)** with Zappar.
 
-### 🔧 Tech Focus:
+---
+
+## 📌 Experience
+
+- 🔬 **LabTEC – UFSC** *(Research & Extension Developer)*  
+  *Developer of interactive educational games using AR and web technologies.*  
+  - Tools: JavaScript, ZapWorks Studio, educational game logic  
+  - Focus: STEM learning, gamification, usability for young learners  
+  
+
+---
+
+## 🔧 Tech Focus
+
 - Node.js, Next.js  
 - JavaScript, TypeScript  
 - HTML5, CSS3, Tailwind CSS  
