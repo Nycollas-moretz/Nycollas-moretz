@@ -31,10 +31,11 @@ Currently, I work on interactive educational projects using **Augmented Reality 
 
 ## 📂 Highlight Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **Educational Minigame (Zappar)** | AR game to teach number sets (natural, rational, etc.) | JavaScript, Zappar, Game Design |
-| **Dance Course Website** | Sales and course management platform for a dance school | Next.js, Tailwind, Node.js, Supabase |
+| Project | Description | Tech Stack | Status |
+|--------|-------------|------------|--------|
+| **Educational Minigame (Zappar)** | AR game to teach number sets (natural, rational, etc.) | JavaScript, Zappar, Game Design | ✅ Completed |
+| **Dance Course Website** | Platform for course sales and school management | Next.js, Tailwind, Node.js, Supabase | 🚧 In Development |
+
 
 ---
 
