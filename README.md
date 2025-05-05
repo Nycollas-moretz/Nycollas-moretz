@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Nycollas Moretz-Sohn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Tech+Enthusiast+%F0%9F%92%A1;Always+learning+and+building&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Tech+Enthusiast+💡;Always+learning+and+building&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 💡 I believe that *technology + purpose = change*, and I aim to merge clean code with thoughtful design.
 
 ### 🔧 Tech Focus:
-- Node.js, Next.js
-- JavaScript, TypeScript
-- HTML5, CSS3, Tailwind CSS
-- Git & GitHub Workflow
+- Node.js, Next.js  
+- JavaScript, TypeScript  
+- HTML5, CSS3, Tailwind CSS  
+- Git & GitHub Workflow  
 - Web Accessibility & Responsive Design
 
 ---
@@ -32,8 +32,8 @@
 
 | 💼 Project | 📌 Description | 🔧 Tech Stack |
 |-----------|----------------|---------------|
-| *Educational Minigame (AR)* | AR game teaching number sets (natural, rational, etc.) | JavaScript · Zappar · Game Design |
-| *Dance Course Platform* | Full-stack solution for dance course sales and management | Next.js · Tailwind · Node.js · Supabase |
+| *Educational Minigame (AR)* | Interactive AR game for classrooms that teaches number sets using drag-and-drop and quizzes | JavaScript · Zappar · Game Design |
+| *Dance Course Platform* | End-to-end course sales platform with authentication, payments, and responsive UI | Next.js · Tailwind · Node.js · Supabase |
 
 ---
 
@@ -59,7 +59,7 @@
 
 - 📧 Email: *nycomoretz@gmail.com*  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nycollas-ramos-114248310)  
-- 💬 Let’s code something great together.
+- 💬 Feel free to reach out — let's build something impactful together.
 
 ---
 
