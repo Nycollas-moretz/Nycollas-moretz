@@ -145,13 +145,12 @@ I prefer clear scopes, async communication, and practical deliverables.
 
 ---
 
-## 📚 Current Goals
+## 🎯 Current Focus
 
-- Build a stronger portfolio with practical Python, backend, and computer vision demos
-- Improve my ability to deliver small technical projects for international clients
-- Deepen my experience with YOLO, OpenCV, FastAPI, and deployment workflows
-- Keep developing both technical skills and professional communication
-
+- Building practical solutions with Python, backend APIs, and computer vision
+- Developing computer vision pipelines using YOLO, Ultralytics, OpenCV, and FaceNet
+- Working with Linux-based environments and GPU servers for model inference and experimentation
+- Creating automation scripts, API integrations, and video analytics workflows
 ---
 
 ## 🤝 Let's Connect
