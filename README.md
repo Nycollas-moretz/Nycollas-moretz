@@ -1,73 +1,164 @@
-<h1 align="center">👋 Hey there! I'm Nycollas Moretz-Sohn</h1>
+<h1 align="center">👋 Hi, I'm Nycollas Moretz-Sohn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+Developer;Tech+Enthusiast+💡;Always+learning+and+building&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;Computer+Vision+%26+Backend;YOLO+%E2%80%A2+FastAPI+%E2%80%A2+Automation;Always+learning+and+building&center=true&width=700&height=45">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6"/>
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Style-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AR-Zappar-FF4081?style=flat"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
+  <img src="https://img.shields.io/badge/API-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CV-YOLO%20%7C%20OpenCV-blue?style=flat"/>
+  <img src="https://img.shields.io/badge/ML-Ultralytics-purple?style=flat"/>
+  <img src="https://img.shields.io/badge/Linux-Server%20Environment-black?style=flat&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DB-Real--time%20Systems-orange?style=flat"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 I'm a *Computer Engineering student at UFSC*, passionate about *Full-stack Development* and creating impactful digital experiences.  
-💡 I believe that *technology + purpose = change*, and I aim to merge clean code with thoughtful design.  
-🧠 Currently working at **LabTEC (UFSC)** on a research and extension project developing educational experiences using **Augmented Reality (AR)** with Zappar.
+I'm a **Computer Engineering student at UFSC** and a **Python developer** focused on practical technical solutions involving **computer vision, backend APIs, automation, and applied AI**.
+
+I currently work on research and development of **computer vision pipelines in Python**, using tools such as **YOLO Pose, Ultralytics, FaceNet, OpenCV, and Linux server environments**. My work involves improving detection, recognition, and tracking workflows for people-centered video analytics systems.
+
+I'm interested in building reliable, useful, and well-documented solutions for real-world problems — especially projects involving:
+
+- Computer vision and video analytics
+- YOLO-based object detection and tracking
+- Python automation and data processing
+- Backend APIs with FastAPI / Flask
+- AI-powered internal tools
+- Technical prototypes and proof-of-concepts
+
+I enjoy working on clear, practical problems with measurable outputs: scripts, APIs, reports, annotated videos, dashboards, and documentation.
+
+---
+
+## 💼 Professional Focus
+
+### Computer Vision & AI
+
+- YOLO / YOLO Pose workflows
+- Ultralytics-based detection pipelines
+- Face recognition experiments with FaceNet
+- Object detection, people tracking, and video processing
+- Heatmap and movement analysis concepts
+- Model evaluation and parameter tuning
+- Linux-based development and server execution
+
+### Backend & Automation
+
+- Python scripts for automation and data processing
+- REST APIs with FastAPI / Flask
+- API integrations and backend debugging
+- CSV / Excel processing workflows
+- Real-time data handling concepts
+- Git and GitHub workflow
 
 ---
 
 ## 📌 Experience
 
-- 🔬 **LabTEC – UFSC** *(Research & Extension Developer)*  
-  *Developer of interactive educational games using AR and web technologies.*  
-  - Tools: JavaScript, ZapWorks Studio, educational game logic  
-  - Focus: STEM learning, gamification, usability for young learners  
-  
+### 🔬 Computer Vision Research & Development Intern
+
+I work on Python-based computer vision pipelines focused on **people detection, recognition, and tracking**. The work involves experimenting with YOLO Pose, Ultralytics, FaceNet, and Linux-based GPU/server environments to improve the accuracy and reliability of video analytics systems.
+
+Main areas of practice:
+
+- Development of computer vision pipelines in Python
+- Detection and tracking of people in video streams
+- Work with YOLO Pose, Ultralytics, FaceNet, and OpenCV
+- Execution and testing in Linux server environments
+- Real-time system concepts with database integration
+- Collaboration with technical teammates under delivery pressure
+
+This experience has helped me improve both technical skills and professional skills such as communication, responsibility, problem-solving, and working under deadlines.
 
 ---
 
-## 🔧 Tech Focus
+## 🧰 Tech Stack
 
-- Node.js, Next.js  
-- JavaScript, TypeScript  
-- HTML5, CSS3, Tailwind CSS  
-- Git & GitHub Workflow  
-- Web Accessibility & Responsive Design
+### Languages & Core Tools
+
+- Python
+- JavaScript / TypeScript
+- Git & GitHub
+- Linux
+
+### Backend
+
+- FastAPI
+- Flask
+- Node.js basics
+- REST APIs
+- API integrations
+
+### Computer Vision / AI
+
+- YOLO / YOLO Pose
+- Ultralytics
+- OpenCV
+- FaceNet
+- Video processing
+- Object detection and tracking
+
+### Web & Frontend
+
+- HTML5 / CSS3
+- Tailwind CSS
+- Next.js basics
+
+### Data & Automation
+
+- Pandas
+- CSV / Excel processing
+- Python scripting
+- Data cleaning and reporting
 
 ---
 
-## 🛠️ Current Projects
+## 🧪 Featured Projects / Demos
 
-| 💼 Project | 📌 Description | 🔧 Tech Stack |
-|-----------|----------------|---------------|
-| *Educational Minigame (AR)* | Interactive AR game for classrooms that teaches number sets using drag-and-drop and quizzes | JavaScript · Zappar · Game Design |
-| *Dance Course Platform* | End-to-end course sales platform with authentication, payments, and responsive UI | Next.js · Tailwind · Node.js · Supabase |
+I'm currently organizing public demo projects focused on practical freelance-style deliverables.
 
----
-
-## 📚 Goals for 2025
-
-- Deepen expertise in *Fullstack JS* (Node.js, Prisma, JWT, Stripe)  
-- Launch *edtech and social impact* platforms  
-- Join collaborative dev teams and expand my product mindset  
-- Keep building tools that *educate, empower, and inspire*
+| Project | Description | Tech Stack |
+|---|---|---|
+| `python-csv-report-automation` | Python script to clean CSV data and generate structured reports | Python · Pandas |
+| `fastapi-file-processing-api` | API for uploading and processing files with documented endpoints | Python · FastAPI |
+| `yolo-video-object-tracking-demo` | Computer vision demo for detecting/tracking objects in images or videos | Python · YOLO · OpenCV |
 
 ---
 
+## 🌍 Open to Remote Projects
 
+I'm open to small, well-defined remote projects involving:
+
+- Python automation scripts
+- CSV / Excel data processing
+- Backend APIs with FastAPI or Flask
+- API integrations
+- Computer vision prototypes
+- YOLO-based detection, tracking, and video analysis
+- Technical debugging and documentation
+
+I prefer clear scopes, async communication, and practical deliverables.
+
+---
+
+## 📚 Current Goals
+
+- Build a stronger portfolio with practical Python, backend, and computer vision demos
+- Improve my ability to deliver small technical projects for international clients
+- Deepen my experience with YOLO, OpenCV, FastAPI, and deployment workflows
+- Keep developing both technical skills and professional communication
+
+---
 
 ## 🤝 Let's Connect
 
-- 📧 Email: *nycomoretz@gmail.com*  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nycollas-ramos-114248310)  
-- 💬 Feel free to reach out — let's build something impactful together.
+- 📧 Email: **nycomoretz@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/nycollas-ramos-114248310)
 
 ---
 
-> "Learn, build, and share — that's how we grow in tech." 💻🚀
+> Learn, build, deliver, improve.
